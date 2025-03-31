@@ -3,8 +3,6 @@ title: Bug Bounty Shorts
 layout: default
 ---
 
-# Bug Bounty Shorts
-
 Welcome to **Bug Bounty Shorts** – an AI-powered solution designed to simplify security research and keep you updated on the latest bug bounty content.
 
 ## What We Do
